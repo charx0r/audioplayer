@@ -1,0 +1,12 @@
+{
+    "author": "Charan Puvvala <charan@azrisolutions.com>",
+    "name": "audioplayer_poc",
+    "version": "0.0.1",
+    "main" : "server.js",
+    "engines" : {
+        "node" : ">=0.4.12"
+    },
+    "dependencies" : {
+        "express" : ">=2.5.0"
+    }
+}
